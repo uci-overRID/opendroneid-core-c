@@ -13,7 +13,7 @@ soren.friis@intel.com
 #ifndef _MAV2ODID_H_
 #define _MAV2ODID_H_
 
-#include <opendroneid.h>
+#include "../libopendroneid/opendroneid.h"
 
 /*
 // Mavlink internally allocates two global buffers. If this is unacceptable from
